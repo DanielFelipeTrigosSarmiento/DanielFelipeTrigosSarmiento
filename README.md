@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trigos&show_icons=true&locale=en&layout=compact" alt="trigos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trigos&show_icons=true&locale=en" alt="trigos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFelipeTrigosSarmiento&show_icons=true&locale=en" alt="trigos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trigos&" alt="trigos" /></p>
